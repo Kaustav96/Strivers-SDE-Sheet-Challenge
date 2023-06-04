@@ -1,4 +1,3 @@
-```
 import java.util.* ;
 import java.io.*; 
 public class Solution 
@@ -32,5 +31,5 @@ public class Solution
         }
     }
 }
-```
+
 ![Screenshot 2023-06-04 at 6 22 40 PM](https://github.com/Kaustav96/Strivers-SDE-Sheet-Challenge/assets/17098465/4bfef708-f724-4415-9fd7-82c3c0b8ff7b)
